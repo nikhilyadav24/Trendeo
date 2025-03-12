@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://github.com/nikhilyadav24/Trendeo/assets/83917129/7c501c2c-4c54-44f9-9773-ffb80fc209a1" width=300 /></p>
+# <p align="center"><img src="https://github.com/nikhilyadav24/Trendeo/blob/main/public/images/trendeo.png" width=300 /></p>
 
 <br/>
 <p align="center">
@@ -39,7 +39,7 @@ Ensure you have `Node.js` and `npm` or `yarn` installed on your machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SusheelThapa/Trendeo.git
+   git clone https://github.com/nikhilyadav24/Trendeo.git
    cd Trendeo
    ```
 
